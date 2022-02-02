@@ -21,5 +21,7 @@ export default {
   text-transform: uppercase;
   padding: 20px;
   text-align: center;
+  background-color: red;
+  color: green;
 }
 </style>
